@@ -1,0 +1,27 @@
+/* Table border */
+
+table {
+    border: 1px solid white;
+}
+
+/* Hover effect on cells */
+
+td:hover {
+    background-color:lightblue;
+    color:black;
+
+}
+
+/* Header row style */
+
+tr, th {
+    background-color:#1a1a2e;
+    color:cornsilk;
+}
+
+/* Data row style */
+
+tr,td {
+    background-color: #003580;
+    color:white;
+}
